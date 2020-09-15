@@ -59,7 +59,7 @@ determine what the starting count should be.
       super()
       this.state = { //define initial state with a key of 'someKey' set to the 'someValue' prop
         someKey: props.someValue
-      }
+      }         
     }
     ```
 3.  As an extra step for understanding, you can open in the `index.js` file to 
